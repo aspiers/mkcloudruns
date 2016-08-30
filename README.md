@@ -14,20 +14,8 @@ amount of configuration options and environment variables used by mkcloud :|.
 - Inspiration:
     > I'm just too lazy.
 
-<<<<<<< HEAD
-# Usage:
-
-Simply copy the template folder and create a new one with the given number.
-Check out the scripts, I will update the readme once I get more time for the same!
-Please contact me on IRC freenode on #openstack/#openstack-doc/#opensuse channels if in doubt
-or write me an email ...
-
-``$ ./deployClouds``
-
-=======
 - The perfect world:
     > We do not need these scripts!
->>>>>>> 6acf6db... Stub temp.
 
 # Deploying SUSE CLoud
 
